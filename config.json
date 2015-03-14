@@ -1,8 +1,8 @@
 {
-    "website_name": "Binary.com",
+    "website_name": "PelicanForex.com",
     "display_languages": "EN,ID,RU,ES,FR,PT,DE,ZH_CN,PL,AR",
     "static": {
-        "url": "https://static.binary.com/",
+        "url": "https://PelicanForex.com/",
         "version": "3.4.1"
     },
     "marketing": {
